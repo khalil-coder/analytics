@@ -25,8 +25,7 @@ SECRET_KEY = "django-insecure-cx(v@kw0x%r(yd@pw8m%^76gcjf@i=js3hfdzd+=n2fbc6#d(+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ["analytics-zbdp.onrender.com"]
 
 # Application definition
 
